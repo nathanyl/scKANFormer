@@ -2,7 +2,7 @@
 
 ## Environment
 - python >= 3.8
-- PyTorch >= 2.0
+- PyTorch >= 1.8
 - `numpy`
 - `pandas`
 - `scipy`
